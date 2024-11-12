@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a:hover {
+  /* text-decoration: underline; */
+  opacity: 0.5;
+}
+
+.silkscreen {
+  font-family: var(--font-silkscreen);
+}
+
+.roboto {
+  font-family: var(--font-roboto);
+}
+
+.ptmono {
+  font-family: var(--font-ptmono);
+}
+
+.montserrat {
+  font-family: var(--font-montserrat);
+}
+
+ 
